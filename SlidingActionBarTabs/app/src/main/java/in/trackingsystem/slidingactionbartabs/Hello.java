@@ -13,8 +13,7 @@ public class Hello {
 
         System.out.println("Hello World1");
 
+        System.out.println("Need to discuss the timeline for the changes reported by the team");
 
-        System.out.println("hii ");
-        System.out.println("testing...done");
     }
 }
