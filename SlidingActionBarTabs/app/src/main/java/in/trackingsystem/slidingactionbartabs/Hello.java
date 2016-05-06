@@ -7,6 +7,7 @@ public class Hello {
 
     public Hello() {
 
+        System.out.println("fffff");
 
         System.out.println("true = " + true);
 
