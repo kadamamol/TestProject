@@ -9,10 +9,12 @@ public class Hello {
 
         System.out.println("Hello World");
 
-        System.out.println("I'm fine.");
+        System.out.println("Cool");
 
         System.out.println("Hello World1");
 
-        System.out.println("testing...");
+
+        System.out.println("hii ");
+        System.out.println("testing...done");
     }
 }
