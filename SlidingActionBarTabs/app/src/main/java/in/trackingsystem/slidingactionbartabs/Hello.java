@@ -7,8 +7,10 @@ public class Hello {
 
     public Hello() {
 
-        System.out.println("f");
 
+        System.out.println("true = " + true);
+
+        System.out.println("Testingggggggggggggggggg");
         System.out.println("Hello World");
 
         System.out.println("Cool");
