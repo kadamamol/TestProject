@@ -8,6 +8,9 @@ public class Hello {
     public Hello() {
 
         System.out.println("Hello World");
+        System.out.println("hw are you");
         System.out.println("Hello World1");
+
+        System.out.println("testing...");
     }
 }
