@@ -7,7 +7,7 @@ public class Hello {
 
     public Hello() {
 
-        System.out.println("f");
+        System.out.println("fffff");
 
         System.out.println("Hello World");
 
